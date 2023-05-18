@@ -101,7 +101,7 @@ function showResults() {
    function restartQuiz() {
     currentQuestion = 0;
     score = 0;
-    time = 30;
+    time = 15;
     correctAnswers = [];
     document.getElementById("results").style.display = "none";
     document.getElementById("quiz").style.display = "block";
