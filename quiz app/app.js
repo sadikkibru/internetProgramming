@@ -21,6 +21,11 @@ var quizQuestions = [
   answer: 0
  },
  {
+    question: " What are the types of unordered or bulleted list in HTML?",
+    choices: ["disc, square, triangle", "polygon, triangle, circle", "disc, circle, square", "disc, circle, squareus"],
+    answer: 2
+   },
+ {
     question: "Which of the following element is responsible for making the text italic in HTML?",
     choices: ["<i>", "<italic>", "<it>", "<pre>"],
     answer: 0
