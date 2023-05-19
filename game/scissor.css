@@ -24,7 +24,6 @@ body {
     font-size: 1.2rem;
     margin-right: 10px;
    }
-   
    #player-score,
    #computer-score {
     display: inline-block;
