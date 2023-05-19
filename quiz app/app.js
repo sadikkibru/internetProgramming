@@ -41,7 +41,7 @@ var quizQuestions = [
 var currentQuestion = 0;
 var score = 0;
 var totalQuestions = quizQuestions.length;
-var time = 30;
+var time = 10;
 var timer;
 var correctAnswers = [];
 
