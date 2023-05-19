@@ -2,7 +2,6 @@
     margin: 0;
     padding: 0;
    }
-   
    .stopwatch {
     width: 500px;
     margin: 100px auto;
@@ -10,7 +9,6 @@
     padding: 10px;
     text-align: center;
    }
-   
    .display {
     font-size: 30px;
     padding: 10px;
