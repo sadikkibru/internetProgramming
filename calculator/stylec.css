@@ -1,0 +1,35 @@
+.calculator {
+ width: 300px;
+ margin: 50px auto;
+ border: 1px solid #131111;
+ border-radius: 5px;
+ padding: 10px;
+}
+
+.display {
+ background-color: #e7d9d9;
+ margin-bottom: 10px;
+ padding: 5px;
+}
+
+.display input {
+ width: 100%;
+ height: 30px;
+ font-size: 20px;
+ border: none;
+}
+
+.keypad button {
+ width: 50px;
+ height: 50px;
+ font-size: 20px;
+ margin: 5px;
+ border: none;
+ border-radius: 5px;
+ background-color: #f1730c;
+ cursor: pointer;
+}
+
+.keypad button:hover {
+ background-color: #3be2e7;
+}
