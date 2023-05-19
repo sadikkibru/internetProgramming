@@ -21,6 +21,11 @@ var quizQuestions = [
   answer: 0
  },
  {
+    question: "Which of the following element is responsible for making the text italic in HTML?",
+    choices: ["<i>", "<italic>", "<it>", "<pre>"],
+    answer: 0
+   },
+ {
   question: "What is the only continent on earth where giraffes can't be found in the wild?",
   choices: ["Africa", "Asia", "Europe", "Australia"],
   answer: 2
